@@ -1,5 +1,6 @@
-# janakitech-public-archives
-Public annoucements / corporate releases / news coverages etc 
+# Janaki Technology Pvt. Ltd., Nepal
+## Public Archives of Announcements, Coverages, Creatives, etc.
+### Estd - 2007
 
 Each sister organization / product has its own folder. Following is the directory structure of the archives.
 
